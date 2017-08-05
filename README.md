@@ -10,6 +10,8 @@
 
 - [구글 드라이브 링크](https://goo.gl/VcQAw1)
 
+* Day 1 영상, Day 3 keynote pdf 자료는 곧 업로드 예정입니다.
+
 ---
 
 ### 디렉토리 안내
