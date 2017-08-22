@@ -33,6 +33,12 @@
    - [closure quiz](http://jsbin.com/jevoled/6/edit?js,console)
    - [callback #1](http://jsbin.com/toqoke/1/edit?js,console)
    - [callback #2](http://jsbin.com/basefaq/1/edit?js,console)
+   - [constructor #1](http://jsbin.com/qedigep/1/edit?js,console)
+   - [constructor #2](http://jsbin.com/gejesor/edit?js,console)
+   - [new keyword #1](http://jsbin.com/qukayiq/edit?js,console)
+   - [new keyword #2](http://jsbin.com/bacoxeb/2/edit?js,console)
+   - [prototype #1](http://jsbin.com/zojecuh/2/edit?js,console)
+   - [prototype #2](http://jsbin.com/gimeseh/edit?js,console)
 
 ---
 
