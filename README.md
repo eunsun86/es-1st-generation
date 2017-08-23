@@ -45,8 +45,8 @@
 ### 과제 목록
 
 - [구글 클론](https://github.com/vanilla-coding/google-clone)
-- [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1)
 - [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans)
+- [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1)
 - [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2)
 - [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils)
 
