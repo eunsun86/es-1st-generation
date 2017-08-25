@@ -54,6 +54,8 @@
 - [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2) - 난이도: 중
 - [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3) - 난이도: 중
 - [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상
+- [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax) - 미완성/시작하지마세요.
+- [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock) - 난이도: 하기나름.. 생각보다 쉽지는 않을거에요.
 
 ---
 
