@@ -39,6 +39,7 @@
    - [new keyword #2](http://jsbin.com/bacoxeb/2/edit?js,console)
    - [prototype #1](http://jsbin.com/zojecuh/2/edit?js,console)
    - [prototype #2](http://jsbin.com/gimeseh/edit?js,console)
+   - [AJAX](http://jsbin.com/furonub/edit?html,console,output)
 - 간단한 퀴즈
    - [this quiz #1](http://jsbin.com/cuxesoy/edit?js,console)
    - [this quiz #2](http://jsbin.com/tukojop/edit?js,console)
