@@ -52,6 +52,7 @@
 - [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans) - 난이도: 하
 - [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1) - 난이도: 중하
 - [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2) - 난이도: 중
+- [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3) - 난이도: 중
 - [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상
 
 ---
