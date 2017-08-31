@@ -51,6 +51,10 @@
    - [this quiz #1](http://jsbin.com/cuxesoy/edit?js,console)
    - [this quiz #2](http://jsbin.com/tukojop/edit?js,console)
    - [this quiz #3](http://jsbin.com/pixamuv/edit?js,console)
+   - [FizzBuzz](http://jsbin.com/vigade/edit?js,console)
+   - [isEven](http://jsbin.com/vuwixey/edit?js,console)
+   - [yCapitalize](http://jsbin.com/rewupif/edit?js,console)
+   - [logTimer](http://jsbin.com/rikudux/edit?js,console)
 
 ---
 
