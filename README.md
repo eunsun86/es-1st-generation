@@ -56,14 +56,16 @@
 
 ### 과제 목록
 
-- [구글 클론](https://github.com/vanilla-coding/google-clone) - 난이도: 하
-- [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans) - 난이도: 하
-- [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1) - 난이도: 중하
-- [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2) - 난이도: 중
-- [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3) - 난이도: 중
-- [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상
-- [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax) - 난이도: 중 (8/30 Event 배우고 하세요.)
-- [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock) - 난이도: 하기나름.. 생각보다 쉽지는 않을거에요. (8/30 Event 배우고 하세요.)
+**필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
+
+- [구글 클론](https://github.com/vanilla-coding/google-clone) - 난이도: 하 (선택)
+- [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans) - 난이도: 하 (필수)
+- [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1) - 난이도: 중하 (필수)
+- [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2) - 난이도: 중 (필수)
+- [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3) - 난이도: 중 (필수)
+- [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상 (선택)
+- [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax) - 난이도: 중 (필수)
+- [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock) - 난이도: 하기나름 (필수)
 
 ---
 
