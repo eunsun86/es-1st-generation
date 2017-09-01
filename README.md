@@ -55,6 +55,7 @@
    - [isEven](http://jsbin.com/vuwixey/edit?js,console)
    - [yCapitalize](http://jsbin.com/rewupif/edit?js,console)
    - [logTimer](http://jsbin.com/rikudux/edit?js,console)
+   - [isString](http://jsbin.com/dejiru/edit?js,console)
 
 ---
 
