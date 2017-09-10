@@ -71,6 +71,7 @@
 - [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상 (선택)
 - [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax) - 난이도: 중 (필수)
 - [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock) - 난이도: 하기나름 (필수)
+- [바닐라 달력](https://github.com/vanilla-coding/vanilla-calendar) - 난이도: 상 (선택)
 
 ---
 
