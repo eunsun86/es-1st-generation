@@ -69,7 +69,7 @@
 
 ### 예제 자료
 
-##### 사슴
+#### 사슴
 
 - [&&, ||](http://jsbin.com/zejavu/2/edit?js,console)
 - [this intro](http://jsbin.com/xilenug/2/edit?js,console)
@@ -109,7 +109,7 @@
 - [logTimer](http://jsbin.com/rikudux/edit?js,console)
 - [isString](http://jsbin.com/dejiru/edit?js,console)
 
-##### 코끼리
+#### 코끼리
 
 ---
 
@@ -117,7 +117,7 @@
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
 
-##### 사슴
+#### 사슴
 
 1. [선택] [구글 클론](https://github.com/vanilla-coding/google-clone)
 2. [필수]  [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans)
@@ -129,7 +129,7 @@
 8. [필수]  [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock)
 9. [선택]  [바닐라 달력](https://github.com/vanilla-coding/vanilla-calendar)
 
-##### 코끼리
+#### 코끼리
 
 ---
 
