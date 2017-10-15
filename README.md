@@ -64,7 +64,7 @@
 
 문제가 있을 경우, 켄님께 문의해주세요!
 
-- [구글 드라이브 링크](https://goo.gl/VcQAw1)
+- [구글 드라이브 링크](https://goo.gl/BWujJ9)
 - 예제 링크
    - [&&, ||](http://jsbin.com/zejavu/2/edit?js,console)
    - [this intro](http://jsbin.com/xilenug/2/edit?js,console)
