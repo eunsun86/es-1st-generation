@@ -60,50 +60,56 @@
 
 ---
 
-### 수업 Keynote 및 영상 모음
+### 영상 자료
 
-문제가 있을 경우, 켄님께 문의해주세요!
+- 사슴 수업 영상 [구글 드라이브](https://goo.gl/9q8HVS)
+- 코끼리 수업 영상 
 
-- [구글 드라이브 링크](https://goo.gl/9q8HVS)
-- 예제 링크
-   - [&&, ||](http://jsbin.com/zejavu/2/edit?js,console)
-   - [this intro](http://jsbin.com/xilenug/2/edit?js,console)
-   - [this #1](http://jsbin.com/tagidid/2/edit?js,console)
-   - [this #2-1](http://jsbin.com/jucimow/5/edit?js,console)
-   - [this #2-2](http://jsbin.com/qulohun/2/edit?js,console)
-   - [this #3](http://jsbin.com/zufafat/3/edit?js,console)
-   - [this #4](http://jsbin.com/zizokeg/2/edit?js,console)
-   - [closure #1](http://jsbin.com/rovocul/1/edit?js,console)
-   - [closure #2](http://jsbin.com/mepaca/2/edit?js,console)
-   - [closure #3](http://jsbin.com/hudujag/1/edit?js,console)
-   - [closure #4](http://jsbin.com/viceziq/5/edit?js,console)
-   - [closure #5](http://jsbin.com/sanuvey/1/edit?js,console)
-   - [closure quiz](http://jsbin.com/jevoled/6/edit?js,console)
-   - [callback #1](http://jsbin.com/toqoke/1/edit?js,console)
-   - [callback #2](http://jsbin.com/basefaq/1/edit?js,console)
-   - [constructor #1](http://jsbin.com/qedigep/1/edit?js,console)
-   - [constructor #2](http://jsbin.com/gejesor/edit?js,console)
-   - [new keyword #1](http://jsbin.com/qukayiq/edit?js,console)
-   - [new keyword #2](http://jsbin.com/bacoxeb/2/edit?js,console)
-   - [prototype #1](http://jsbin.com/zojecuh/2/edit?js,console)
-   - [prototype #2](http://jsbin.com/gimeseh/edit?js,console)
-   - [AJAX](http://jsbin.com/furonub/edit?html,console,output)
-   - [이벤트 걸기](http://jsbin.com/hesoxek/edit?js,console,output)
-   - [이벤트 지우기 #1](http://jsbin.com/femoyod/edit?js,console,output)
-   - [이벤트 지우기 #2](http://jsbin.com/yuvorul/edit?js,console,output)
-   - [이벤트 Capturing & Bubbling](http://jsbin.com/yokavu/edit?js,console,output)
-   - [이벤트 preventDefault](http://jsbin.com/bazowa/edit?js,console,output)
-   - [이벤트 stopPropagation](http://jsbin.com/pexugi/edit?js,console,output)
-   - [이벤트 target vs currentTaget](http://jsbin.com/zurutor/edit?js,console,output)
-- 간단한 퀴즈
-   - [this quiz #1](http://jsbin.com/cuxesoy/edit?js,console)
-   - [this quiz #2](http://jsbin.com/tukojop/edit?js,console)
-   - [this quiz #3](http://jsbin.com/pixamuv/edit?js,console)
-   - [FizzBuzz](http://jsbin.com/vigade/edit?js,console)
-   - [isEven](http://jsbin.com/vuwixey/edit?js,console)
-   - [yCapitalize](http://jsbin.com/rewupif/edit?js,console)
-   - [logTimer](http://jsbin.com/rikudux/edit?js,console)
-   - [isString](http://jsbin.com/dejiru/edit?js,console)
+---
+
+### 예제 자료
+
+##### 사슴
+
+- [&&, ||](http://jsbin.com/zejavu/2/edit?js,console)
+- [this intro](http://jsbin.com/xilenug/2/edit?js,console)
+- [this #1](http://jsbin.com/tagidid/2/edit?js,console)
+- [this #2-1](http://jsbin.com/jucimow/5/edit?js,console)
+- [this #2-2](http://jsbin.com/qulohun/2/edit?js,console)
+- [this #3](http://jsbin.com/zufafat/3/edit?js,console)
+- [this #4](http://jsbin.com/zizokeg/2/edit?js,console)
+- [closure #1](http://jsbin.com/rovocul/1/edit?js,console)
+- [closure #2](http://jsbin.com/mepaca/2/edit?js,console)
+- [closure #3](http://jsbin.com/hudujag/1/edit?js,console)
+- [closure #4](http://jsbin.com/viceziq/5/edit?js,console)
+- [closure #5](http://jsbin.com/sanuvey/1/edit?js,console)
+- [closure quiz](http://jsbin.com/jevoled/6/edit?js,console)
+- [callback #1](http://jsbin.com/toqoke/1/edit?js,console)
+- [callback #2](http://jsbin.com/basefaq/1/edit?js,console)
+- [constructor #1](http://jsbin.com/qedigep/1/edit?js,console)
+- [constructor #2](http://jsbin.com/gejesor/edit?js,console)
+- [new keyword #1](http://jsbin.com/qukayiq/edit?js,console)
+- [new keyword #2](http://jsbin.com/bacoxeb/2/edit?js,console)
+- [prototype #1](http://jsbin.com/zojecuh/2/edit?js,console)
+- [prototype #2](http://jsbin.com/gimeseh/edit?js,console)
+- [AJAX](http://jsbin.com/furonub/edit?html,console,output)
+- [이벤트 걸기](http://jsbin.com/hesoxek/edit?js,console,output)
+- [이벤트 지우기 #1](http://jsbin.com/femoyod/edit?js,console,output)
+- [이벤트 지우기 #2](http://jsbin.com/yuvorul/edit?js,console,output)
+- [이벤트 Capturing & Bubbling](http://jsbin.com/yokavu/edit?js,console,output)
+- [이벤트 preventDefault](http://jsbin.com/bazowa/edit?js,console,output)
+- [이벤트 stopPropagation](http://jsbin.com/pexugi/edit?js,console,output)
+- [이벤트 target vs currentTaget](http://jsbin.com/zurutor/edit?js,console,output)
+- [this quiz #1](http://jsbin.com/cuxesoy/edit?js,console)
+- [this quiz #2](http://jsbin.com/tukojop/edit?js,console)
+- [this quiz #3](http://jsbin.com/pixamuv/edit?js,console)
+- [FizzBuzz](http://jsbin.com/vigade/edit?js,console)
+- [isEven](http://jsbin.com/vuwixey/edit?js,console)
+- [yCapitalize](http://jsbin.com/rewupif/edit?js,console)
+- [logTimer](http://jsbin.com/rikudux/edit?js,console)
+- [isString](http://jsbin.com/dejiru/edit?js,console)
+
+##### 코끼리
 
 ---
 
@@ -111,15 +117,19 @@
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
 
-- [구글 클론](https://github.com/vanilla-coding/google-clone) - 난이도: 하 (선택)
-- [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans) - 난이도: 하 (필수)
-- [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1) - 난이도: 중하 (필수)
-- [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2) - 난이도: 중 (필수)
-- [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3) - 난이도: 중 (필수)
-- [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils) - 난이도: 중상 (선택)
-- [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax) - 난이도: 중 (필수)
-- [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock) - 난이도: 하기나름 (필수)
-- [바닐라 달력](https://github.com/vanilla-coding/vanilla-calendar) - 난이도: 상 (선택)
+##### 사슴
+
+1. [선택] [구글 클론](https://github.com/vanilla-coding/google-clone)
+2. [필수]  [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans)
+3. [필수]  [자바스크립트 퀴즈 #1](https://github.com/vanilla-coding/Javascript-Basics-1)
+4. [필수]  [자바스크립트 퀴즈 #2](https://github.com/vanilla-coding/Javascript-Basics-2)
+5. [필수]  [자바스크립트 퀴즈 #3](https://github.com/vanilla-coding/Javascript-Basics-3)
+6. [선택]  [자바스크립트 보너스 퀴즈](https://github.com/vanilla-coding/vanilla-utils)
+7. [필수]  [포뇨 AJAX](https://github.com/vanilla-coding/ponyo-ajax)
+8. [필수]  [바닐라 시계](https://github.com/vanilla-coding/vanilla-clock)
+9. [선택]  [바닐라 달력](https://github.com/vanilla-coding/vanilla-calendar)
+
+##### 코끼리
 
 ---
 
