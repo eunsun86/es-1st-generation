@@ -160,7 +160,7 @@
 ### 과제 제출 방법
 
 - [PR 만들기](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-- [가이드 영상](https://goo.gl/WEQPbn)
+- [가이드 영상](https://goo.gl/htShKT)
 
 ---
 
