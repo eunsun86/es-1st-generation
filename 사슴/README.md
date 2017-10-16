@@ -48,12 +48,12 @@
 
 ### 과제 관련
 
-#### 과제 제출 가이드
+#### _과제 제출 가이드_
 
 - 과제 제출 [가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 - PR 만들기 [가이드 문서](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-#### 과제 리스트
+#### _과제 리스트_
 
 1. [선택] [구글 클론](https://github.com/vanilla-coding/google-clone)
 2. [필수]  [자바스크립트 Koans](https://github.com/vanilla-coding/javascript-koans)
@@ -72,5 +72,3 @@
 ### 사용 및 배포에 대한 안내
 
 현재 날짜(2017년 8월 5일)을 기준으로 아직 법적으로 저작권 등록은 완료되지 않았으나, 상업적 용도 또는 바닐라코딩 비참가인에게 무료 배포하는 행위는 자제해 주시기를 부탁드립니다. 추후에 문제가 될 수도 있음을 미리 알려드립니다.
-
----
