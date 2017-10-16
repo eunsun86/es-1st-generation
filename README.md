@@ -153,7 +153,7 @@
 
 #### 코끼리
 
-1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0`
+1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
 
 ---
 
