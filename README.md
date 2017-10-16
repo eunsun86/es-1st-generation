@@ -60,6 +60,7 @@
 
 ### 영상 자료
 
+- [과제 제출 가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 - 사슴 수업 영상 [구글 드라이브](https://goo.gl/9q8HVS)
 - 코끼리 수업 영상 [구글 드라이브](https://goo.gl/3mz76e)
 
@@ -136,7 +137,7 @@
 ### 과제 제출 방법
 
 - [PR 만들기](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-- [가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
+- [과제 제출 가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 
 ---
 
