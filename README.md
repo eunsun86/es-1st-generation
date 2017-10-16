@@ -60,6 +60,28 @@
 
 ---
 
+### 수업 스케줄
+
+#### 코끼리
+
+1. 10월 16일 월요일: Review
+2. 10월 18일 수요일: Primitive vs Reference
+3. 10월 20일 금요일: Special
+4. 10월 23일 월요일: Javascript Design Patterns
+5. 10월 25일 수요일: Object Oriented Programming
+6. 10월 27일 금요일: Model - View - Controller
+7. 10월 30일 월요일: Debugging skills
+8. 11월  1일 수요일: Client side routing
+9. 11월  3일 금요일: Advanced Git
+10. 11월 6일 월요일: Special
+11. 11월 8일 수요일: Publish and Subscribe
+12. 11월 10일 금요일: Asynchronous Programming
+13. 11월 13일 월요일: Asynchronous Programming (Promise)
+14. 11월 15일 수요일: Functional Programming
+15. 11월 17일 금요일: ES2015
+
+---
+
 ### 영상 자료
 
 - 사슴 수업 영상 [구글 드라이브](https://goo.gl/9q8HVS)
