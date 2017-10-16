@@ -159,7 +159,8 @@
 
 ### 과제 제출 방법
 
-작업 내용 저장 후, 다음 링크의 방법을 따라하세요. [PR 만들기](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+- [PR 만들기](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+- [가이드 영상](https://goo.gl/WEQPbn)
 
 ---
 
