@@ -26,6 +26,8 @@
 
 ### 예제 자료
 
+- [Object syntax review](http://jsbin.com/lopusak/edit?js,console)
+
 ---
 
 ### 과제 관련
