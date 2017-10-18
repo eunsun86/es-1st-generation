@@ -27,6 +27,11 @@
 ### 예제 자료
 
 - [Object syntax review](http://jsbin.com/lopusak/edit?js,console)
+- [Primitive](http://jsbin.com/xavakif/edit?js,console)
+- [Reference](http://jsbin.com/milizo/edit?js,console)
+- [Primitive & Reference 1](http://jsbin.com/vorekax/edit?js,console)
+- [Primitive & Reference 2](http://jsbin.com/sazobek/edit?js,console)
+- [Type Coercion](http://jsbin.com/pujiwot/edit?js,console)
 
 ---
 
