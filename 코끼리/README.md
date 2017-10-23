@@ -32,6 +32,15 @@
 - [Primitive & Reference 1](http://jsbin.com/vorekax/edit?js,console)
 - [Primitive & Reference 2](http://jsbin.com/sazobek/edit?js,console)
 - [Type Coercion](http://jsbin.com/pujiwot/edit?js,console)
+- [Object Literal Modules](http://jsbin.com/nobore/edit?js,console)
+- [IIFE w/ private variables](http://jsbin.com/fobazu/edit?js,consolei)
+- [IIFE w/ private method](http://jsbin.com/telonaf/edit?js,console)
+- [Why do we need singletons](http://jsbin.com/muwirep/edit?js,console)
+- [Singletons 1](http://jsbin.com/vumiva/edit?js,console)
+- [Singletons 2](http://jsbin.com/vuwanos/edit?js,console)
+- [Behavior Delegation](http://jsbin.com/zuxumub/edit?js,console)
+- [Mixin](http://jsbin.com/yuqowij/edit?js,console)
+- [Chaining](http://jsbin.com/tewonas/edit?js,console)
 
 ---
 
