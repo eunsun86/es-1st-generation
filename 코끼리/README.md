@@ -61,6 +61,8 @@
 #### _과제 리스트_
 
 1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
+2. [필수 - 10월 29일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v2-oop2`
+
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
 
