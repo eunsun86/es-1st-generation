@@ -58,17 +58,7 @@
 - 과제 제출 [가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 - PR 만들기 [가이드 문서](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-#### _과제 리스트_
-
-1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
-2. [필수 - 10월 29일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v2-oop2`
-
-
-**필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
-
----
-
-### 포크 버젼 맞추기
+#### _포크 버젼 맞추기_
 
 포크를 하시게 되면, **포크를 하시는 그 순간의 버젼**을 본인 계정으로 가져가게 됩니다. 그런데 포크를 하신후에 오리지날 버젼(예.vanilla-coding/ums)가 바뀌게 될수도 있습니다. 만약 새로 업데이트한 변경 사항을 가져오고 싶다면, 다음 스텝들을 따라하시면 됩니다.
 
@@ -79,6 +69,14 @@
 3. `git fetch upstream`
     - 방금 저장해놓은 `upstream`이라는 리모트 클라우드로부터 정보를 모두 가져오는 명령어입니다.
 4. 이제 새로운 정보들을 다 가져왔습니다. 원하는 브랜치로 이동후, 작업하시면 됩니다.
+
+#### _과제 리스트_
+
+1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
+2. [필수 - 10월 29일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v2-oop2`
+
+
+**필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
 
 ---
 
