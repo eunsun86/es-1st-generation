@@ -41,6 +41,7 @@
 - [Behavior Delegation](http://jsbin.com/zuxumub/edit?js,console)
 - [Mixin](http://jsbin.com/yuqowij/edit?js,console)
 - [Chaining](http://jsbin.com/tewonas/edit?js,console)
+- [DOM API](https://github.com/vanilla-coding/1st-generation/blob/master/%EC%BD%94%EB%81%BC%EB%A6%AC/DOM.js)
 
 ---
 
