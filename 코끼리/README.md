@@ -41,7 +41,7 @@
 - [Behavior Delegation](http://jsbin.com/zuxumub/edit?js,console)
 - [Mixin](http://jsbin.com/yuqowij/edit?js,console)
 - [Chaining](http://jsbin.com/tewonas/edit?js,console)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [DOM API](https://github.com/vanilla-coding/1st-generation/blob/master/%EC%BD%94%EB%81%BC%EB%A6%AC/DOM.js)
+- [DOM API](https://github.com/vanilla-coding/1st-generation/blob/master/%EC%BD%94%EB%81%BC%EB%A6%AC/DOM.js)
 
 ---
 
@@ -49,7 +49,8 @@
 
  - [Stack](http://jsbin.com/caqozok/edit?js,console)
  - [Piano](http://jsbin.com/figizag/edit?output)
- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Rating](http://jsbin.com/dojolud/edit?output)
+ - [Rating](http://jsbin.com/dojolud/edit?output)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [CharacterFrequency](http://jsbin.com/gumizak/2/edit?js)
 
 ---
 
@@ -59,7 +60,10 @@
 
 - 과제 제출 [가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 - PR 만들기 [가이드 문서](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 포크 버젼 맞추기 [가이드 영상](https://goo.gl/tEzJPp)
+- 포크 버젼 맞추기 [가이드 영상](https://goo.gl/tEzJPp)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 포크 버젼 맞추기 2 [가이드 영상](https://goo.gl/h42ESA)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Git workflow](https://goo.gl/ovKmNa)
+
 
 #### _포크 버젼 맞추기_
 
@@ -77,7 +81,8 @@
 
 1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
 2. [필수 - 10월 29일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v2-oop2`
-3. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월  1일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v3-mvc`
+3. [필수 - 11월  1일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v3-mvc`
+4. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 11월  3일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v5-debugging`
 
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
