@@ -50,7 +50,8 @@
  - [Stack](http://jsbin.com/caqozok/edit?js,console)
  - [Piano](http://jsbin.com/figizag/edit?output)
  - [Rating](http://jsbin.com/dojolud/edit?output)
- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [CharacterFrequency](http://jsbin.com/gumizak/2/edit?js)
+ - [CharacterFrequency](http://jsbin.com/gumizak/2/edit?js)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [validShuffle](http://jsbin.com/quwaqe/edit?js,console)
 
 ---
 
@@ -61,8 +62,8 @@
 - 과제 제출 [가이드 영상](https://goo.gl/htShKT)(다운로드하셔서 보세요.)
 - PR 만들기 [가이드 문서](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 - 포크 버젼 맞추기 [가이드 영상](https://goo.gl/tEzJPp)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 포크 버젼 맞추기 2 [가이드 영상](https://goo.gl/h42ESA)
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Git workflow](https://goo.gl/ovKmNa)
+- 포크 버젼 맞추기 2 [가이드 영상](https://goo.gl/h42ESA)
+- [Git workflow](https://goo.gl/ovKmNa)
 
 
 #### _포크 버젼 맞추기_
@@ -82,7 +83,8 @@
 1. [필수 - 10월 22일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v0-vanilla`
 2. [필수 - 10월 29일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v2-oop2`
 3. [필수 - 11월  1일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v3-mvc`
-4. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 11월  3일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v5-debugging`
+4. [선택 - 11월  3일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v5-debugging`
+5. [필수 - 11월  5일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v6-routing`
 
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
