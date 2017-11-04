@@ -8,8 +8,8 @@
 6. 10월 27일 금요일: Model - View - Controller
 7. 10월 30일 월요일: Debugging skills
 8. 11월  1일 수요일: Client side routing
-9. 11월  3일 금요일: Advanced Git
-10. 11월 6일 월요일: Special
+9. 11월  3일 금요일: Special
+10. 11월 6일 월요일: Advanced Git
 11. 11월 8일 수요일: Publish and Subscribe
 12. 11월 10일 금요일: Asynchronous Programming
 13. 11월 13일 월요일: Asynchronous Programming (Promise)
