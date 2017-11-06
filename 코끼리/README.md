@@ -51,7 +51,8 @@
  - [Piano](http://jsbin.com/figizag/edit?output)
  - [Rating](http://jsbin.com/dojolud/edit?output)
  - [CharacterFrequency](http://jsbin.com/gumizak/2/edit?js)
- - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [validShuffle](http://jsbin.com/quwaqe/edit?js,console)
+ - [validShuffle](http://jsbin.com/quwaqe/edit?js,console)
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Sorted Array Search](http://jsbin.com/nuwudul/edit?js) - [Solution](http://jsbin.com/denifun/2/edit?js,console)
 
 ---
 
