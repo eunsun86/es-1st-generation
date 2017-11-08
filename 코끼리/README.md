@@ -86,7 +86,10 @@
 3. [필수 - 11월  1일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v3-mvc`
 4. [선택 - 11월  3일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v5-debugging`
 5. [필수 - 11월  5일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v6-routing`
-6. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월 26일까지] [Chat Simulator](https://github.com/vanilla-coding/chat-simulator)
+6. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 11월  12일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v7-pubsub`
+7. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월  12일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v8-async1`
+8. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월  19일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v9-async2`
+9. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 12월 3일까지] [Chat Simulator](https://github.com/vanilla-coding/chat-simulator)
 
 
 **필수라는 의미는 완료가 아닙니다. 스스로 시도를 하셔서 70%정도 완료하셨으면 충분하고, 끝내지 못하신 부분은 제가 더 도와드릴테니 끝까지 완료하겠다는 목표로 열심히 해보시길 바랍니다. 포기하지 마세요!**
