@@ -52,7 +52,7 @@
  - [Rating](http://jsbin.com/dojolud/edit?output)
  - [CharacterFrequency](http://jsbin.com/gumizak/2/edit?js)
  - [validShuffle](http://jsbin.com/quwaqe/edit?js,console)
- - [Sorted Array Search](http://jsbin.com/nuwudul/edit?js) - [Solution](http://jsbin.com/denifun/2/edit?js,console)
+ - [Sorted Array Search](http://jsbin.com/nuwudul/edit?js) - [Solution](http://jsbin.com/denifun/3/edit?js,console)
 
 ---
 
