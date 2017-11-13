@@ -55,6 +55,7 @@
  - [Sorted Array Search](http://jsbin.com/nuwudul/edit?js) - [Solution](http://jsbin.com/denifun/3/edit?js,console)
  - [plusOneSum](http://jsbin.com/weducu/2/edit?js)
  - [영구없다](http://jsbin.com/buqoze/edit?output)
+ - [Carousel](http://jsbin.com/nicuro/edit?output)
 
 ---
 
@@ -90,7 +91,7 @@
 5. [필수 - 11월  5일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v6-routing`
 6. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 11월  12일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v7-pubsub`
 7. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월  12일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v8-async1`
-8. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 11월  19일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v9-async2`
+8. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [선택 - 11월  19일까지] [UMS](https://github.com/vanilla-coding/ums) Branch `v9-async2`
 9. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [필수 - 12월 3일까지] [Chat Simulator](https://github.com/vanilla-coding/chat-simulator)
 
 
