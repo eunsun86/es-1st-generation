@@ -56,6 +56,7 @@
  - [plusOneSum](http://jsbin.com/weducu/2/edit?js)
  - [영구없다](http://jsbin.com/buqoze/edit?output)
  - [Carousel](http://jsbin.com/nicuro/edit?output)
+ - [Spinner](http://jsbin.com/vogomus/2/edit?html,js,output)
 
 ---
 
