@@ -30,6 +30,8 @@
 
 ### Quiz 자료
 
+- [Event Mixin](http://jsbin.com/tukadib/1/edit?js,output)
+
 ---
 
 ### 과제 리스트
