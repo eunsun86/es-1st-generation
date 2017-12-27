@@ -33,6 +33,7 @@
 - [Event Mixin](http://jsbin.com/tukadib/1/edit?js,output)
 - [Bubble Sort](http://jsbin.com/pelaxed/edit?js,console)
 - [Async](http://jsbin.com/tadubud/edit?js,console)
+- [getElementsByClassName](http://jsbin.com/kerokeb/edit?html,js)
 
 ---
 
