@@ -35,6 +35,7 @@
 - [Async](http://jsbin.com/tadubud/edit?js,console)
 - [getElementsByClassName](http://jsbin.com/kerokeb/edit?html,js)
 - [firstNonRepeatedCharacter](http://jsbin.com/vumacu/edit?js,console)
+- [throttle](http://jsbin.com/lolodax/edit?js,console)
 
 ---
 
