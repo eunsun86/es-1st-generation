@@ -36,6 +36,7 @@
 - [getElementsByClassName](http://jsbin.com/kerokeb/edit?html,js)
 - [firstNonRepeatedCharacter](http://jsbin.com/vumacu/edit?js,console)
 - [throttle](http://jsbin.com/lolodax/edit?js,console)
+- [deepEquals](http://jsbin.com/macived/edit?js,console)
 
 ---
 
