@@ -48,6 +48,7 @@
 - 12월 29일까지 [NSS-Client](https://github.com/vanilla-coding/nss-client/blob/v1-new-component/README.md) `v1-new-component`
 - 1월 5일까지 [NSS-Client](https://github.com/vanilla-coding/nss-client/blob/v2-login/README.md) `v2-login`
 - 1월 15일까지 [NSS-Client](https://github.com/vanilla-coding/nss-client/blob/v4-router/README.md) `v4-router`
+- 1월 27일까지 [Chat Simulator](https://github.com/vanilla-coding/chat-simulator) Redux & React
 
 ---
 
